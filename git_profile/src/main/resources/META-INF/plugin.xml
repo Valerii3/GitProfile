@@ -27,7 +27,7 @@
         <notificationGroup id="GitProfile" displayType="BALLOON"/>
 
         <toolWindow doNotActivateOnStart="true"
-                    factoryClass="org.jetbrains.git.profile.git_profile.DemoPanelFactory"
+                    factoryClass="org.jetbrains.git.profile.git_profile.window.GitStatsPanelFactory"
                     id="GitStatistics" anchor="right"/>
     </extensions>
 </idea-plugin>
